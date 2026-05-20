@@ -1,0 +1,9 @@
+{
+  "events": [
+    {"year": 2019, "edition": 1, "event_id": "844092",  "url": "https://indico.cern.ch/event/844092/"},
+    {"year": 2021, "edition": 2, "event_id": "1014398", "url": "https://indico.cern.ch/event/1014398/"},
+    {"year": 2023, "edition": 3, "event_id": "1216301", "url": "https://indico.cern.ch/event/1216301/"},
+    {"year": 2024, "edition": 4, "event_id": "1352459", "url": "https://indico.cern.ch/event/1352459/"},
+    {"year": 2025, "edition": 5, "event_id": "1488957", "url": "https://indico.cern.ch/event/1488957/"}
+  ]
+}
